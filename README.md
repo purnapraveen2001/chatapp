@@ -1,8 +1,6 @@
 
 Welcome to **Chat App**! This project is a real-time chat application built with React, Node.js, and Socket.IO, providing users with a seamless and interactive messaging experience.
 
-![Login Page](./assets/login_screenshot.png) <!-- Ensure the image path matches your project's structure -->
-
 ## 🚀 Project Overview
 
 Chat App is a full-stack real-time messaging application that allows users to register, log in, and communicate with others instantly. With a user-friendly interface and a responsive backend, Chat App aims to deliver a smooth and reliable chatting experience.
@@ -28,7 +26,7 @@ Chat App is a full-stack real-time messaging application that allows users to re
 ### Login Page
 This is the login page where users can enter their credentials to access the chat app.
 
-![Login Page](./assets/login_screenshot.png)
+![Screenshot 2024-11-08 at 7 01 24 AM](https://github.com/user-attachments/assets/6a8de726-0f41-4627-8f26-85f0b90f8f22)
 
 ### Chat Interface
 Add more screenshots for other sections of your application (like the chat interface, registration page, etc.) by placing images in the `assets` folder and referencing them in the README as shown above.
@@ -119,9 +117,6 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or su
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
